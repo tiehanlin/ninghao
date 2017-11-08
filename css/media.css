@@ -1,0 +1,25 @@
+@media only screen and (max-width:1200px ) {
+	#SearchBox{display: none;}
+	.b03Font h2{color: #A1A1A1;}
+	.b03Font p{color:#A1A1A1;margin-top: 20px;font-size: 14px;}
+}
+@media only screen and (max-width:765px ) {
+	#SearchBox{display: block;}
+	#login{float: none !important;}
+	#banner .container{padding-top: 100px;padding-bottom: 100px;}
+/*banner*/
+#bannerSection{
+	width: 400px;
+	margin: 0px auto;
+}
+.banSecP01{font-size: 40px;color: white;margin:0px auto;margin-bottom: 20px;}
+.banSecP02{font-size: 12px;color: white;margin:0px auto;margin-bottom: 20px;}
+.b01carImg{margin: 0px auto;}
+.b02carImg{margin: 0px auto;}
+}
+@media only screen and (max-width:992px ) {
+	.car02{padding: 20px;}
+	#banner02 video{width: auto;height:100%;position: absolute;z-index: -1;}
+	.b03Font h2{color: #A1A1A1;}
+.b03Font p{color:#A1A1A1;margin-top: 30px;font-size: 16px;}
+}
